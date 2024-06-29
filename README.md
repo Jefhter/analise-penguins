@@ -8,6 +8,8 @@
 This study use [Penguins's](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#meet-the-penguins) Database.
 As can be seen on the table, that is the same used on analysis, it has 3 column: especies, bill_length and bill_depth (intuitive). The species is Adelie, Chinstrap and Gentoo.
 
+_Click [here](https://github.com/Jefhter/analise-penguins/blob/main/Analysis) to go to analysis._
+
 
 | species|bill_length|bill_depth|
 | :----- | :- | :---- |
@@ -169,8 +171,3 @@ As can be seen on the table, that is the same used on analysis, it has 3 column:
 | Gentoo|45.5|15|
 | Gentoo|43.2|14.5|
 | Gentoo|50.4|15.3|
-
-
-## Analysis
-
-Click [here](https://github.com/Jefhter/analise-penguins/blob/main/Analysis) to go to analysis.
