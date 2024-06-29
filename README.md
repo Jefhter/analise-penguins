@@ -3,13 +3,12 @@
 📊 *A Statistic Study Of Penguins Species*
 
 
-## Database
-
 This study use [Penguins's](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#meet-the-penguins) Database.
-As can be seen on the table, that is the same used on analysis, it has 3 column: especies, bill_length and bill_depth (intuitive). The species is Adelie, Chinstrap and Gentoo.
+As can be seen on the table, that is the same used on analysis, it has 3 column: especies, bill_length and bill_depth (intuitives names). Species is Adelie, Chinstrap and Gentoo.
 
-_Click [here](https://github.com/Jefhter/analise-penguins/blob/main/Analysis) to go to analysis._
+_Click [here](https://github.com/Jefhter/analise-penguins/blob/main/Analysis.md) to go to analysis._
 
+## Database
 
 | species|bill_length|bill_depth|
 | :----- | :- | :---- |
