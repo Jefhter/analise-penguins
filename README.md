@@ -8,7 +8,7 @@ As can be seen on the table, that is the same used on analysis, it has 3 column:
 
 _Click [here](https://github.com/Jefhter/analise-penguins/blob/main/Analysis.md) to go to analysis._
 
-## Database
+## Processed Database
 
 | species|bill_length|bill_depth|
 | :----- | :- | :---- |
